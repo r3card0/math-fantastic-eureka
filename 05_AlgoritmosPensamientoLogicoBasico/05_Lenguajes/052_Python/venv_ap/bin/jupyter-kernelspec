@@ -1,0 +1,8 @@
+#!/Users/ideasleon/platzi_edu/matematicas/AlgoritmosPensamientoLogicoBasico/05_Lenguajes/052_Python/venv_ap/bin/python3
+# -*- coding: utf-8 -*-
+import re
+import sys
+from jupyter_client.kernelspecapp import KernelSpecApp
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(KernelSpecApp.launch_instance())
