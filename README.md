@@ -10,6 +10,6 @@
 ## Intermedio
 6. Básico de Python
 7. Pensamiento computacional con Python
-8. Programación Orientada a Objetocs y algoritmos con Python
+8. Programación Orientada a Objetos y algoritmos con Python
 9. Estadística Computacional con Python
 10. Pensamiento Probabilístico
