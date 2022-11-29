@@ -6,3 +6,14 @@
 5! = 5 * 4 * 3 * 2 * 1 = 120
 ````
 * Los números son positivos
+* Calcular un factorial con Python
+````
+def factorial():
+    n = int(input("Enter value: "))
+    single = 1
+    for i in range(1,n+1):
+        single = single * i
+    
+    return single
+ ````
+ 
